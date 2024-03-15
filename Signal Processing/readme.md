@@ -1,4 +1,4 @@
-# Doubts asked during thes session:
+# Doubts asked during the Signal Processing sessions:
 
 **1. How to find the envelope of the spectrum?**
 
